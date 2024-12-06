@@ -158,16 +158,16 @@
         },
         {
           "abbreviation" : "TAMU",
-          "prestige" : "81",
+          "prestige" : "95",
           "hexColor" : "#6A373E",
           "rival" : "LSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2024",
             "age" : "41",
-            "ratOff" : "66",
+            "ratOff" : "95",
             "cumulativePrestige" : "-5",
-            "ratDef" : "65",
+            "ratDef" : "95",
             "homeState" : "Ohio",
             "ratPot" : "90",
             "ratTalent" : "91",
@@ -1593,7 +1593,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BSU",
-          "prestige" : "75",
+          "prestige" : "95",
           "hexColor" : "#0017CF",
           "rival" : "FRST",
           "headCoach" : {
@@ -1615,7 +1615,7 @@
         },
         {
           "abbreviation" : "FRST",
-          "prestige" : "70",
+          "prestige" : "90",
           "hexColor" : "#0006AA",
           "rival" : "BSU",
           "headCoach" : {
